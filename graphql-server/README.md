@@ -9,6 +9,7 @@ npm install
 ### Compiles and hot-reloads for development
 
 ```
+Make sure server is started. Refer to steps in graphql-server readme.md.
 npm start
 ```
 
